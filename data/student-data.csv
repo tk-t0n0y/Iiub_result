@@ -1,0 +1,93 @@
+student_id,name,program,batch,semester,course_code,course_title,credit_hours,grade,grade_point
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,1,LLB101,Jurisprudence,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,1,LLB103,Constitutional Law,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,1,LLB104,Legal System of Bangladesh,3,A,4
+582310008131001,Sarah Islam,Bachelor of Laws (LLB Honours),Summer 2023,1,LLB101,Jurisprudence,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,1,LLB102,Law of Contract,3,A-,3.7
+582310008131001,Sarah Islam,Bachelor of Laws (LLB Honours),Summer 2023,1,LLB102,Law of Contract,3,B+,3.3
+582310008131001,Sarah Islam,Bachelor of Laws (LLB Honours),Summer 2023,1,LLB103,Constitutional Law,3,A,4
+582310008131001,Sarah Islam,Bachelor of Laws (LLB Honours),Summer 2023,1,LLB104,Legal System of Bangladesh,3,A-,3.7
+582310008131002,Fatima Akter,Bachelor of Laws (LLB Honours),Spring 2022,1,LLB101,Jurisprudence,3,A+,4
+582310008131002,Fatima Akter,Bachelor of Laws (LLB Honours),Spring 2022,1,LLB102,Law of Contract,3,A,4
+582310008131002,Fatima Akter,Bachelor of Laws (LLB Honours),Spring 2022,1,LLB103,Constitutional Law,3,A,4
+582310008131002,Fatima Akter,Bachelor of Laws (LLB Honours),Spring 2022,1,LLB104,Legal System of Bangladesh,3,A+,4
+582310008131002,Fatima Akter,Bachelor of Laws (LLB Honours),Spring 2022,2,LLB201,Criminal Law,3,A+,4
+582310008131002,Fatima Akter,Bachelor of Laws (LLB Honours),Spring 2022,2,LLB202,Law of Tort,3,A,4
+582310008131002,Fatima Akter,Bachelor of Laws (LLB Honours),Spring 2022,2,LLB203,Muslim Law,3,A+,4
+582310008131002,Fatima Akter,Bachelor of Laws (LLB Honours),Spring 2022,2,LLB204,Administrative Law,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,1,LLB101,Jurisprudence and Legal Theory,3,A,2.4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,1,LLB102,Law of Contract and Partnership,3,A-,2.4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,1,LLB103,Muslim Law-I,3,B+,3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,1,LLB104,Legal System of Bangladesh,3,B,2.5
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,2,LLB201,Constitutional Law of Bangladesh,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,2,LLB202,Muslim Law-II,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,2,LLB203,Law of Tort,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,2,LLB204,Hindu Law & Law of Registration,3,B,3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,3,LL-301,Criminal Law-I (Penal Code),3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,3,LL-2021,Land Laws of Bangladesh-I,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,3,LLB303,Company Law,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,3,LL-2229,Equity and Trust Law,3,B,3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,4,LLB401,Criminal Law-II (Criminal Procedure Code),3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,4,LLB402,Land Laws of Bangladesh-II,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,4,LLB403,Administrative Law,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,4,LLB404,Laws of Evidence,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,5,LLB501,Civil Procedure Code & Public Interest Litigation,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,5,LLB502,Drafting Pleading & Conveyancing,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,5,LLB503,Labour & Industrial Law,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,6,LLB601,Public International Law,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,6,LLB602,Intellectual Property Laws,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,6,LLB603,Banking Laws & Insurance,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,7,LLB701,Environmental Law & Climate Change,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,7,LLB702,International Human Rights Law,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,7,LLB703,Alternative Dispute Resolution,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,8,LLB801,Cyber Law & Digital Security,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,8,LLB802,Legal Research & Moot Court,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,8,LLB803,Professional Ethics & Court Etiquette,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,9,LLB901,International Law,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,9,LLB902,Criminology & Penology,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,9,LLB903,Law of Taxation,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,10,LLB1001,Constitutional Law of USA & UK,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,10,LLB1002,Maritime Law,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,10,LLB1003,Medical Jurisprudence,3,B+,3.3
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,11,LLB1101,Law of International Organizations,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,11,LLB1102,Competition Law,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,12,LLB1201,Dissertation/Thesis,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,12,LLB1202,Clinical Legal Education,3,A-,3.7
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2029,12,LLB1203,Law of Armed Conflicts,3,B+,3.3
+582310008131003,Karim Ahmed,Bachelor of Laws (LLB Honours),Spring 2024,1,LLB101,Jurisprudence and Legal Theory,3,A+,4
+582310008131003,Karim Ahmed,Bachelor of Laws (LLB Honours),Spring 2024,1,LLB102,Law of Contract and Partnership,3,A,4
+582310008131003,Karim Ahmed,Bachelor of Laws (LLB Honours),Spring 2024,1,LLB103,Muslim Law-I,3,A-,3.7
+582310008131003,Karim Ahmed,Bachelor of Laws (LLB Honours),Spring 2024,1,LLB104,Legal System of Bangladesh,3,B+,3.3
+582310008131004,Nusrat Jahan,Bachelor of Laws (LLB Honours),Fall 2022,3,LLB301,Criminal Law-I,3,A,4
+582310008131004,Nusrat Jahan,Bachelor of Laws (LLB Honours),Fall 2022,3,LLB302,Land Laws of Bangladesh-I,3,A+,4
+582310008131004,Nusrat Jahan,Bachelor of Laws (LLB Honours),Fall 2022,3,LLB303,Company Law,3,A,4
+582310008131004,Nusrat Jahan,Bachelor of Laws (LLB Honours),Fall 2022,3,LLB304,Equity and Trust Law,3,A-,3.7
+582310008131005,Rahul Das,Bachelor of Laws (LLB Honours),Spring 2021,6,LLB601,Public International Law,3,B+,3.3
+582310008131005,Rahul Das,Bachelor of Laws (LLB Honours),Spring 2021,6,LLB602,Intellectual Property Laws,3,A,4
+582310008131005,Rahul Das,Bachelor of Laws (LLB Honours),Spring 2021,6,LLB603,Banking Laws & Insurance,3,B,3
+582310008131002,Aisha Khan,Bachelor of Laws (LLB Honours),Summer 2023,2,LLB201,Constitutional Law,3,A+,4
+582310008131002,Aisha Khan,Bachelor of Laws (LLB Honours),Summer 2023,2,LLB202,Muslim Law-II,3,A,4
+582310008131002,Aisha Khan,Bachelor of Laws (LLB Honours),Summer 2023,2,LLB203,Law of Tort,3,A+,4
+582310008131002,Aisha Khan,Bachelor of Laws (LLB Honours),Summer 2023,2,LLB204,Hindu Law,3,A-,3.7
+582310008131004,Imran Hossain,Bachelor of Laws (LLB Honours),Fall 2020,8,LLB801,Cyber Law,3,A,4
+582310008131004,Imran Hossain,Bachelor of Laws (LLB Honours),Fall 2020,8,LLB802,Legal Research,3,B+,3.3
+582310008131004,Imran Hossain,Bachelor of Laws (LLB Honours),Fall 2020,8,LLB803,Professional Ethics,3,A-,3.7
+582310008131003,Sabina Yasmin,Bachelor of Laws (LLB Honours),Spring 2024,1,LLB101,Jurisprudence and Legal Theory,3,B+,3.3
+582310008131003,Sabina Yasmin,Bachelor of Laws (LLB Honours),Spring 2024,1,LLB102,Law of Contract and Partnership,3,A-,3.7
+582310008131003,Sabina Yasmin,Bachelor of Laws (LLB Honours),Spring 2024,1,LLB103,Muslim Law-I,3,B,3
+582310008131003,Sabina Yasmin,Bachelor of Laws (LLB Honours),Spring 2024,1,LLB104,Legal System of Bangladesh,3,A,4
+582310008131002,Rafi Islam,Bachelor of Laws (LLB Honours),Spring 2022,4,LLB401,Criminal Procedure,3,A+,4
+582310008131002,Rafi Islam,Bachelor of Laws (LLB Honours),Spring 2022,4,LLB402,Land Laws-II,3,A,4
+582310008131002,Rafi Islam,Bachelor of Laws (LLB Honours),Spring 2022,4,LLB403,Administrative Law,3,B+,3.3
+582310008131002,Rafi Islam,Bachelor of Laws (LLB Honours),Spring 2022,4,LLB404,Evidence Law,3,A-,3.7
+582310008131005,Tania Rahman,Bachelor of Laws (LLB Honours),Fall 2021,5,LLB501,Civil Procedure,3,A,4
+582310008131005,Tania Rahman,Bachelor of Laws (LLB Honours),Fall 2021,5,LLB502,Drafting & Pleading,3,A+,4
+582310008131005,Tania Rahman,Bachelor of Laws (LLB Honours),Fall 2021,5,LLB503,Labour Law,3,A-,3.7
+582310008131004,Kabir Ahmed,Bachelor of Laws (LLB Honours),Spring 2023,7,LLB701,Environmental Law,3,B+,3.3
+582310008131004,Kabir Ahmed,Bachelor of Laws (LLB Honours),Spring 2023,7,LLB702,Human Rights,3,A,4
+582310008131004,Kabir Ahmed,Bachelor of Laws (LLB Honours),Spring 2023,7,LLB703,Alternative Dispute Resolution,3,A-,3.7
+582310008131001,torykuzzaman tonoy,,Spring 2023,1,LL-2722,Alternative Dispute Resolution,3,A+,4
+582310008131001,torykuzzaman tonoy,,Spring 2023,1,LL-2723,Alternative,3,A+,4
+582310008131002,Nusrat Jahan TONOU,Bachelor of Laws (LLB Honours),Fall 2029,3,LLB301,Criminal Law-I,3,A,4
+582310008131045,TORYKUZZAMAN TONOY,Bachelor of Laws (LLB Honours),Spring 2023,11,LLB1103,Legal Aid & Public Interest Lawyering,3,B+,3.3
+582310008131002,Nusrat Jahan TONOU,Bachelor of Laws (LLB Honours),Fall 2029,3,LLB302,Land Laws of Bangladesh-I,3,A+,4
